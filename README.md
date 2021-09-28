@@ -10,5 +10,5 @@
 - [Email](spanag3@gatech.edu)
 
 
-###### (My GaTech github is under Georgia Tech, and I'm unable to share, so this is a newer account)
+(My GaTech github is under Georgia Tech, and I'm unable to share, so this is a newer account)
 
