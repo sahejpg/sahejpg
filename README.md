@@ -1,4 +1,4 @@
 - Hi, I’m Sahej Panag
 - Second year CS major at GaTech
-- Interested in learning more about Data Science
-- The code I've included on this github respositary are from few of the coding projects I've worked on during my time at GaTech.
+- Interested in learning more about Data Science and Algorithm Efficiency
+
