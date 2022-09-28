@@ -1,5 +1,6 @@
 # Hi! I'm Sahej Panag.
-# This Github includes my work from various classes including, Data Structures and Algorithms, Computer Organization and Program, Introduction to Database Systems, Objects and Design, Computer Systems and Networks, and Computer Graphics.
+### This Github includes my work from various classes including, 
+#### Data Structures and Algorithms, Computer Organization and Program, Introduction to Database Systems, Objects and Design, Computer Systems and Networks, and Computer Graphics.
 - Third year CS major at GaTech
 - Threads in Information Internetworks and Media
 - Information Internetworks entails Data Security, Data Visualization, and Data Manipulation
