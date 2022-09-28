@@ -12,7 +12,7 @@
 
 # Contacts
 - [LinkedIn](www.linkedin.com/in/sahej-panag)
-- [Email](spanag3@gatech.edu)
+- spanag3@gatech.edu
 
 ### This Github includes my work from various classes including, 
 
