@@ -1,14 +1,12 @@
 # Hi! I'm Sahej Panag
-- Second year CS major at GaTech
-- Interested in learning more about Data Science and App development
-- Grew up in Doha, Qatar
+- Third year CS major at GaTech
+- Threads in Information Internetworks and Media
+- Information Internetworks entails Data Security, Data Visualization, and Data Manipulation
+- Media entails processing, rendering, and simulating media. (Like animation)
+- Looking for an internship where my skillset is useful, either front end or back end.
 # Skills
-- Have experience in coding in Java, Python, and HTML
-- Also have expereince in using: IntelliJ Idea, VSCode, Github, XCode
+- Coding experience in Java, Python, HTML, C, and SQL Query.
+- Also have expereince in using: IntelliJ Idea, VSCode, Github, XCode, and JIRA.
 # Contacts
 - [LinkedIn](www.linkedin.com/in/sahej-panag)
 - [Email](spanag3@gatech.edu)
-
-
-(My GaTech github is under Georgia Tech, and I'm unable to share, so this is a newer account)
-
