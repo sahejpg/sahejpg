@@ -2,7 +2,7 @@
 
 - Third year CS major at GaTech
 - Threads in Information Internetworks and Media
-- Information Internetworks entails Data Security, Data Visualization, and Data Manipulation
+- Information Internetworks entails Data Security, Data Visualization, Data Manipulation, and System Networks.
 - Media entails processing, rendering, and simulating media. (Like animation)
 - Looking for an internship where my skillset is useful, either front end or back end.
 
