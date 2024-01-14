@@ -18,6 +18,8 @@ Throughout my academic journey, I've immersed myself in the fields of Informatio
 - 🌐 System Networks
 - 🎥 Media Processing and Rendering
 
+Furthermore, I possess a strong background in full-stack software engineering acquired through my prior professional experiences and foundational coursework.
+
 ## Technical Skills
 
 I bring a diverse set of technical skills to the table, encompassing proficiency in various programming languages and tools:
