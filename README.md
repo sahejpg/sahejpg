@@ -35,7 +35,7 @@ I bring a diverse set of technical skills to the table, encompassing proficiency
 
 ## Project Highlights
 
-You can explore a wealth of projects in my GitHub repository, showcasing my problem-solving abilities and commitment to coding. These projects span a range of courses I've completed, including:
+The projects in my Github Repository span a range of courses including:
 
 - 💻 Computer Organization and Programming
 - 📊 Introduction to Database Systems
@@ -44,8 +44,9 @@ You can explore a wealth of projects in my GitHub repository, showcasing my prob
 - 🎥 Video Game Design
 - 🧩 Introduction to Information Security <- reach out to me for access to these projects!
 
+I believe these projects showcase my ability and determination to complete projects and assignments to their best and my commitment to coding across genres.
+
 ## Connect with Me
 
-Let's connect on [LinkedIn](www.linkedin.com/in/sahej-panag) to explore potential job opportunities and collaborations. If you have any inquiries or would like to discuss how I can contribute to your organization, please feel free to reach out to me at spanag3@gatech.edu.
+I'm enthusiastic about transitioning into a full-time role, contributing to exciting projects, and bringing fresh perspectives to the world of software development! Please reach out on [LinkedIn](www.linkedin.com/in/sahej-panag) or my school email at spanag3@gatech.edu.
 
-I'm enthusiastic about transitioning into a full-time role, contributing to exciting projects, and bringing fresh perspectives to the world of software development. Let's work together to achieve greatness!
