@@ -22,7 +22,7 @@ Furthermore, I possess a strong background in full-stack software engineering ac
 
 ## Technical Skills
 
-I bring a diverse set of technical skills to the table, encompassing proficiency in various programming languages and tools:
+I bring a diverse set of technical skills, encompassing proficiency in various programming languages and tools.
 
 - ☕ Java
 - 🐍 Python
