@@ -39,12 +39,11 @@ I bring a diverse set of technical skills to the table, encompassing proficiency
 
 The projects in my Github Repository span a range of courses including:
 
-- 💻 Computer Organization and Programming
 - 📊 Introduction to Database Systems
 - 🌐 Computer Systems and Networks
 - 🖥️ Computer Graphics
 - 🎥 Video Game Design
-- 🧩 Introduction to Information Security <- reach out to me for access to these projects!
+- 💻 Introduction to Information Security <- reach out to me for access to these projects!
 
 I see these projects as evidence of my ability and determination to excel in various Computer Science areas and my strong commitment to coding.
 
