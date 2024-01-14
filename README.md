@@ -1,19 +1,51 @@
-# Hi! I'm Sahej Panag.
+# Hello, I'm Sahej Panag!
 
-- Third year CS major at GaTech
-- Threads in Information Internetworks and Media
-- Information Internetworks entails Data Security, Data Visualization, Data Manipulation, and System Networks.
-- Media entails processing, rendering, and simulating media. (Like animation)
-- Looking for an internship where my skillset is useful, either front end or back end.
+I'm a senior at Georgia Institute of Technology, majoring in Computer Science, and I'm thrilled to be on the verge of graduating and stepping into the professional world of software development. As I prepare to complete my studies, I am actively seeking full-time job opportunities that align with my skills and aspirations.
 
-# Skills
-- Coding experience in Java, Python, HTML, C, and SQL Query.
-- Also have expereince in using: IntelliJ Idea, VSCode, Github, XCode, and JIRA.
+## About Me
 
-# Contacts
-- [LinkedIn](www.linkedin.com/in/sahej-panag)
-- spanag3@gatech.edu
+- 🎓 Senior at Georgia Tech, pursuing a degree in Computer Science
+- 💼 Actively seeking full-time positions in software development
+- 🌐 Specialized in Information Internetworks and Media
 
-### This Github includes my work from various classes including, 
+## Academic Focus
 
-#### Data Structures and Algorithms, Computer Organization and Program, Introduction to Database Systems, Objects and Design, Computer Systems and Networks, and Computer Graphics.
+Throughout my academic journey, I've immersed myself in the fields of Information Internetworks and Media, equipping me with expertise in these areas:
+
+- 🛡️ Data Security
+- 📊 Data Visualization
+- 💾 Data Manipulation
+- 🌐 System Networks
+- 🎥 Media Processing and Rendering
+
+## Technical Skills
+
+I bring a diverse set of technical skills to the table, encompassing proficiency in various programming languages and tools:
+
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML
+- 🗃️ C
+- 📊 SQL Query
+- 🧰 IntelliJ Idea
+- 🧪 VSCode
+- 📁 Github
+- 🍏 XCode
+- 📝 JIRA
+
+## Project Highlights
+
+You can explore a wealth of projects in my GitHub repository, showcasing my problem-solving abilities and commitment to coding. These projects span a range of courses I've completed, including:
+
+- 📚 Data Structures and Algorithms
+- 💻 Computer Organization and Programming
+- 📊 Introduction to Database Systems
+- 🧩 Objects and Design
+- 🌐 Computer Systems and Networks
+- 🖥️ Computer Graphics
+
+## Connect with Me
+
+Let's connect on [LinkedIn](www.linkedin.com/in/sahej-panag) to explore potential job opportunities and collaborations. If you have any inquiries or would like to discuss how I can contribute to your organization, please feel free to reach out to me at spanag3@gatech.edu.
+
+I'm enthusiastic about transitioning into a full-time role, contributing to exciting projects, and bringing fresh perspectives to the world of software development. Let's work together to achieve greatness!
