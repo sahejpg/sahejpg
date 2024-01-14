@@ -37,12 +37,12 @@ I bring a diverse set of technical skills to the table, encompassing proficiency
 
 You can explore a wealth of projects in my GitHub repository, showcasing my problem-solving abilities and commitment to coding. These projects span a range of courses I've completed, including:
 
-- 📚 Data Structures and Algorithms
 - 💻 Computer Organization and Programming
 - 📊 Introduction to Database Systems
-- 🧩 Objects and Design
 - 🌐 Computer Systems and Networks
 - 🖥️ Computer Graphics
+- 🎥 Video Game Design
+- 🧩 Introduction to Information Security <- reach out to me for access to these projects!
 
 ## Connect with Me
 
