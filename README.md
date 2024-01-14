@@ -46,7 +46,7 @@ The projects in my Github Repository span a range of courses including:
 - 🎥 Video Game Design
 - 🧩 Introduction to Information Security <- reach out to me for access to these projects!
 
-I believe these projects showcase my ability and determination to complete projects and assignments to their best and my commitment to coding across genres.
+I see these projects as evidence of my ability and determination to excel in various Computer Science areas and my strong commitment to coding.
 
 ## Connect with Me
 
